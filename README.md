@@ -1,16 +1,21 @@
-### Hi there 👋
+# **Hello There**❗
 
-<!--
-**MushinShin/MushinShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Facundo, I'm a Software Developer, whose main methods of learning and improving are hard-work and trying my best on everything.
 
-Here are some ideas to get you started:
+- 💻 My current big goal is to become a FullStack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💯 Always open to learn and improve my skills, 1% Better Everyday.
+
+- 🌻 My fascination for 🕹️🎬🎼 made me interested in technology.
+
+- 📈 Looking foward to invest, build a foundation for new projects.
+
+- 🚀 Very absorbed in neuropsychology, psychology and philosophy as a means to self-improvement.
+
+# My developer Skillset
+
+Front-End: / JavaScript / HTML / CSS / React /
+
+Back-End: / C# / JavaScript / SQL /
+
+Others: / Git / Microsoft Dynamics /
